@@ -74,7 +74,7 @@ Model Accuracy:
 
 ## About Project
 
-![About](screenshots/about.png)
+![About](screenshots/model.png)
 
 ---
 
